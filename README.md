@@ -1,2 +1,3 @@
-# db_metrics_querying
-Storing SQL queries for calculating the metrics from the databases
+## Sample SQL Queries
+
+This repository stores a few SQL queries for retreiving data and calculating the metrics from the databases.
